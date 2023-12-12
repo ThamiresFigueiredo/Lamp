@@ -1,0 +1,39 @@
+body {
+    background-color: #303030;
+    color: white;
+    text-align: center;
+    font-family: Verdana;
+}
+
+header {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 33vw;
+}
+
+section {
+    background-color: #BABABA;
+    color: black;
+    padding: 10px;
+    border-radius: 20px;
+    width: 50%;
+    margin: auto;
+}
+
+/* para editar os inputs precisa garantir que estejam na mesma classe*/
+
+.botao {
+    background-color: #0C70F2;
+    color:white;
+    border: 0px;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    
+}
+
+#logotipo {
+
+width: 200px;
+
+}
